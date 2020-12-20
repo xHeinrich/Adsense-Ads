@@ -1,5 +1,5 @@
 {
-    "name": "mastergalen/adsense-ads",
+    "name": "xheinrich/adsense-ads",
     "license": "MIT",
     "description": "Display Adsense ads easily in Laravel.",
     "keywords": [ "laravel", "adsense", "ads" ],
